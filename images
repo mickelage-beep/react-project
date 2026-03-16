@@ -1,0 +1,7 @@
+<div className="imgRoom">
+    <img className="imgStandard" src="https://images.unsplash.com/photo-1611892440504-42a792e24d32" alt="Standard rum">
+
+    <img className="imgDeluxe" src="https://images.unsplash.com/photo-1590490360182-c33d57733427" alt="Deluxe rum">
+
+    <img className="imgSuite" src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b" alt="Suite">
+</div>
